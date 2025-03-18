@@ -1,0 +1,6 @@
+target/
+.idea/
+*.iml
+appium.log
+node_modules/
+*.apk
