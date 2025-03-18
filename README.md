@@ -1,7 +1,5 @@
 # Mobile Automation Appium
 
-![Appium Logo](https://upload.wikipedia.org/wikipedia/commons/3/30/Appium.png)
-
 ## Description
 This project is a mobile automatization using **Java, Appium and TestNG**. Automated tests have been implemented for the App **WDIO Dummy App** in an Android 15.0 emulator.
 
